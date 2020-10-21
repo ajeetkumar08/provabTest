@@ -1,5 +1,3 @@
-# Home Automation API
-
 ### Setup guide
 
 Install the following requirments if they are not already pre-installed on your computer:
